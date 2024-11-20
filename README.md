@@ -1,4 +1,4 @@
-## Hi, I'm Thendelo Mashapha
+## Hi, I'm Thendelo Mashapha 😉👋
 
 <!--
 **thendelonaz/thendelonaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I've enjoyed being being a software developer ever since I created a rat maze in scratch, after i became fascinated and wanted to learn more so I stared learning languages like C,C++ and python. I am currently looking for a role in backend development idealy working with python and c++.
