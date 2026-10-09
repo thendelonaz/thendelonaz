@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RESRATEY]: https://resratey.onrender.com)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **BACKEND DATABASE MANAGEMENT AND PROBLEM SOLVING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thendelonaz](https://github.com/thendelonaz)
 
