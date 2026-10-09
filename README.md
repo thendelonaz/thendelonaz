@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thendelonaz&label=Profile%20views&color=0e75b6&style=flat" alt="thendelonaz" /> </p>
 
-- 🔭 I’m currently working on [REQO](https://github.com/thendelonaz/reqo)
+- 🔭 I’m currently working on [RESRATEY]: https://resratey.onrender.com)
 
 - 🌱 I’m currently learning **JavaScript**
 
